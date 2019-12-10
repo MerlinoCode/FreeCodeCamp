@@ -1,0 +1,32 @@
+#main{
+   background-color:#004B87;
+   color:white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #FFCD00;
+}
+li{
+    padding: 0 2% 2% 0;
+}
+#title, #img-caption, #tribute-info, footer{
+	position: flex;
+    text-align: center;
+}
+#image{
+    max-width: 40vmax;
+    height: auto;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+}
+article{
+    width: 60vmax;
+    display: relative;
+    justify-content: center;
+    margin: 0 auto;
+}
+#tribute-link{
+    color:white;
+    text-decoration: none;
+}
