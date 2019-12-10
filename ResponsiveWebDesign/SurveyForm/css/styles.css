@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://picsum.photos/id/353/6016/3376/?blur=9");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#title, #description{
+	position: flex;
+    text-align: center;
+}
+#submit{
+    display: flex;
+    margin: 2% auto;
+}
+#survey-form{
+    width: 100vmin;
+    display: relative;
+    justify-content: center;
+    margin: 0 auto;
+}
+input{
+    padding-right: 20vmax;
+}
