@@ -20,6 +20,9 @@ body{
     justify-content: center;
     margin: 0 auto;
 }
+#number,#name,#email{
+    width: 40vmax;
+}
 input{
-    padding-right: 20vmax;
+    padding: 1% 1%;
 }
