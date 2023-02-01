@@ -1,13 +1,10 @@
 # FreeCodeCamp
-Repositorios de los proyectos terminados.
+Online views of the completed proyects hosted on Codepen.io
 
 ## Responsive Web Design:
 
--Tribute Page
-Online: https://codepen.io/crash9/pen/abzNOYj
++ [Tribute Page](https://codepen.io/crash9/pen/abzNOYj)
 
--Survey Form
-Online: https://codepen.io/crash9/pen/povyreX
++ [Survey Form](https://codepen.io/crash9/pen/povyreX)
 
--Product Landing Page
-Online:
++ [Technical Documentation Page](https://codepen.io/crash9/pen/ExpOEGZ)
