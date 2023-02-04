@@ -1,7 +1,7 @@
 # FreeCodeCamp
 Online views of the completed proyects hosted on Codepen.io
 
-## Responsive Web Design:
+## Responsive Web Design
 
 + [Tribute Page](https://codepen.io/crash9/pen/abzNOYj)
 
